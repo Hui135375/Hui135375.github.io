@@ -1,6 +1,5 @@
 title: "my blog"
 author: "Hui135375"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "ko"
 excerpt_separator: "\n\n\n"
